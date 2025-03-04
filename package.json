@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-ci-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robertovelz8/proyecto-ci-yarn.git",
+  "author": "robertovelz8 <rvelvaz834@g.educaand.es>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
